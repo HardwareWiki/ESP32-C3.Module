@@ -10,3 +10,4 @@
 - https://www.aliexpress.us/w/wholesale-esp32-c3-10pcs.html?spm=a2g0o.home.auto_suggest.6.135076dbXDQoLK
 - https://www.aliexpress.us/w/wholesale-esp32-c3-breakout-board.html?spm=a2g0o.home.auto_suggest.7.135076dbpAZmlB
 - https://www.aliexpress.us/w/wholesale-esp32-c3-development-board.html?spm=a2g0o.home.auto_suggest.11.135076dbthvGLx
+- https://www.aliexpress.us/w/wholesale-ESP32%2525252dC3-SuperMini.html?spm=a2g0o.home.search.0

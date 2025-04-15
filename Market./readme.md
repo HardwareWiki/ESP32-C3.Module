@@ -1,6 +1,7 @@
 # sch:
 ## esp32 c3
 - https://www.aliexpress.us/w/wholesale-ESP32%2525252dC3.html?spm=a2g0o.home.search.0
+- https://www.aliexpress.us/w/wholesale-esp32-c3-supermini-wifi-bluetooth.html?spm=a2g0o.home.auto_suggest.1.135076db9Es1DU
 - https://www.aliexpress.us/w/wholesale-esp32-c3.html?spm=a2g0o.home.auto_suggest.1.135076dbxr4Uoa
 - https://www.aliexpress.us/w/wholesale-esp32-c3-mini.html?spm=a2g0o.home.auto_suggest.2.135076db3fXG1y
 - https://www.aliexpress.us/w/wholesale-esp32-c3-super-mini.html?spm=a2g0o.home.auto_suggest.2.135076dbA0Mcv3
